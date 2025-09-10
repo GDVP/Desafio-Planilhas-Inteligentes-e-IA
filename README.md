@@ -14,5 +14,6 @@ Microsoft Excel
 Prompt com pedido de criação de de Planilha via ChatGPT, planilha aberta, testada e levemente melhorada via Excel.
 
 ## 🚀 Resultados
-Anexo a este projeto.
+Anexo na raíz deste repositório, arquivo de nome "20250909-planilha_financas_pessoais.xlsx".
 
+Obrigado.
